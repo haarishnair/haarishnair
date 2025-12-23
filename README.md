@@ -41,7 +41,6 @@ I enjoy building clean, user-focused applications and exploring how AI-driven sy
 ---
 
 ### 📊 GitHub Stats
-![Haarish's GitHub stats](https://github-readme-stats.vercel.app/api?username=haarishnair&show_icons=true&hide_title=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haarishnair&layout=compact)
 
 ---
